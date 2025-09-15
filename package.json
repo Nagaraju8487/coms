@@ -1,6 +1,7 @@
 {
   "name": "vite-react-typescript-starter",
   "private": true,
+  "homepage": "https://nagaraju8487.github.io/coms/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -34,4 +35,5 @@
     "vite": "^5.4.2"
   }
 }
+
 
