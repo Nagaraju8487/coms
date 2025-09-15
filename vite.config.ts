@@ -7,4 +7,5 @@ export default defineConfig({
   plugins: [react()],
   // Add this line
   base: '/coms/', // Use your repository name here
-})
+});
+
